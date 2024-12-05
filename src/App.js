@@ -29,9 +29,9 @@ export default function App() {
             rel="noopener noreferrer"
           >
             {" "}
-            open-sourced on GitHub{" "}
+            open-sourced on GitHub
           </a>
-          and {""}
+          {""} and {""}
           <a
             href="https://dictonary-app-reactaddworkshop.netlify.app/"
             target="_blank"
