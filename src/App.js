@@ -12,7 +12,34 @@ export default function App() {
         <main>
           <Dictionary />
         </main>
-        <footer className="App-footer">Coded by Emily Knox-Clifton</footer>
+        <footer>
+          This project was coded by{" "}
+          <a
+            href="https://github.com/eknox22/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            {" "}
+            Emily Knox-Clifton
+          </a>
+          {""} and is {""}
+          <a
+            href="https://github.com/eknox22/Dictionary-Project"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            {" "}
+            open-sourced on GitHub{" "}
+          </a>
+          and {""}
+          <a
+            href="https://dictonary-app-reactaddworkshop.netlify.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            hosted on Netlify
+          </a>
+        </footer>
       </div>
     </div>
   );
