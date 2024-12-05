@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import "./Dictionary.css";
 import Results from "./Results";
-import Meaning from "./Meaning";
 import axios from "axios";
 
 export default function Dictionary() {
