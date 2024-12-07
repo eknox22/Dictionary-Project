@@ -3,6 +3,7 @@ Developed using React.js, this Dictionary App is a web application.
 
 It enables users to search for word definitions, synonyms, antonyms, and example sentences, whilst also providing photos for words if appiciable via the image API.
 
+<img width="1061" alt="Screenshot of Dictionary App" src="https://github.com/user-attachments/assets/9790c597-65a7-4a76-9f43-c1e49ccd1908">
 
 
 # Getting Started with Create React App
