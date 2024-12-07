@@ -24,7 +24,7 @@ export default function App() {
           </a>
           {""} and is {""}
           <a
-            href="https://github.com/eknox22/Dictionary-Project"
+            href="https://github.com/eknox22/Dictionary-React-App"
             target="_blank"
             rel="noopener noreferrer"
           >
